@@ -1,0 +1,2 @@
+#applet.sundayhk.com
+res.sundayhk.com
