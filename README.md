@@ -1,5 +1,5 @@
 
-使用非官方的aliyun go sdk 定时更新CDN证书。
+使用非官方的aliyun go sdk 定时更新阿里云CDN证书。
 
 在项目所在文件夹中安装依赖：
 ```go
